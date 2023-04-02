@@ -1,6 +1,4 @@
 ### Olá Tudo Bem, Eu Sou Kevin Silva👋
-[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevin007dante/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kevinhosilvakevin/)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-silva-araujo-15431b237/)
 
 ![Kevin-Silva-Araujo GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin-Silva-Araujo&show_icons=true&theme=radical)
